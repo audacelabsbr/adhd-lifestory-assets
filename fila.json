@@ -211,6 +211,55 @@
       "status": "pendente",
       "publicado_em": null,
       "media_id": null
+    },
+    {
+      "slug": "32-the-holiday-face",
+      "slides": 9,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
+    },
+    {
+      "slug": "33-one-tab-became-a-degree",
+      "slides": 9,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
+    },
+    {
+      "slug": "34-notes-app-2am",
+      "slides": 1,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
+    },
+    {
+      "slug": "35-where-did-the-afternoon-go",
+      "slides": 9,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
+    },
+    {
+      "slug": "36-silent-video-call",
+      "slides": 9,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
+    },
+    {
+      "slug": "37-fourteen-tabs",
+      "slides": 1,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
+    },
+    {
+      "slug": "38-pacing-on-the-call",
+      "slides": 9,
+      "status": "pendente",
+      "publicado_em": null,
+      "media_id": null
     }
   ]
 }
